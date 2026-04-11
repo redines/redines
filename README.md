@@ -8,11 +8,7 @@ I'm a software developer with a passion for building practical tools, home lab s
 
 This section is the entrypoint to longer-form profile pages in this repository.
 
-- [Profile Hub](./docs/index.md)
-- [Professional Summary](./docs/professional-summary.md)
-- [Current Focus](./docs/current-focus.md)
-- [Projects](./docs/projects.md)
-- [Fetching Guide](./docs/fetching.md)
+- [AI Policy](./docs/ai-policy.md)
 
 ---
 
