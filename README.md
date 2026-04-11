@@ -3,10 +3,7 @@
 I'm a software developer with a passion for building practical tools, home lab setups, and games. I enjoy working across the full stack — from backend services and infrastructure to front-end interfaces and interactive experiences.
 
 ---
-
-## Professional Profile
-
-This section is the entrypoint to longer-form profile pages in this repository.
+Please read my official AI policy on my stand on using AI in my projects.
 
 - [AI Policy](./docs/ai-policy.md)
 
