@@ -8,7 +8,7 @@ Any code taken and used outside of these projects in a production environment ou
 
 ## Update Notes
 
-- Last updated: 2026-04-11
+- Last updated: 2026-04-17
 
 ## 1. Scope of AI Use
 
@@ -46,19 +46,36 @@ Final responsibility always rests with the creator of the new AI generated conte
 
 ## 3. Transparency with Users
 
-TBD
+AI-generated content within these projects will be disclosed where reasonably possible. This includes:
+
+* Comments in code indicating AI-generated sections
+* PR descriptions noting AI involvement in the changes
+* README or documentation notes where AI was used to generate content
+
+The goal is to ensure anyone reading or using this code understands where AI has contributed.
 
 ## 4. Data Privacy & Security
 
-TBD
+No personal, sensitive, or proprietary data is intentionally fed into AI tools as part of these projects. Only publicly available information, mock data, or self-authored content is used as AI input.
+
+AI-generated code is reviewed for potential security issues, and where possible, automated security scanning tools (non-AI) are used to supplement that review. No guarantees are made regarding the security of AI-generated output used outside the original project scope.
 
 ## 5. Bias & Fairness Considerations
 
-TBD
+AI tools may produce biased, inaccurate, or culturally insensitive content. As part of the human oversight process described in Section 2, AI-generated content — especially text, images, and mock data — is reviewed with this in mind before being committed.
+
+Generated content that reflects bias or unfair representation will be corrected or discarded.
 
 ## 6. Limitations & Known Issues
 
-TBD
+AI tools used in these projects have known limitations, including:
+
+* Generating plausible but incorrect code or documentation (hallucinations)
+* Lacking up-to-date knowledge of newer frameworks or APIs
+* Inconsistent output quality, requiring human verification
+* Potential for security vulnerabilities in generated code if left unreviewed
+
+These limitations are why human review (Section 2) is a required step before any AI-generated content is committed.
 
 ## 7. Continuous Improvement
 
